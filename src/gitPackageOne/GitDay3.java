@@ -9,6 +9,8 @@ public class GitDay3 {
 		System.out.println("My First changes on local master");
 		System.out.println("This is my feature branch");
 		System.out.println("my second push from local feature branch");
+		System.out.println("my third push from local feature branch");
+		
 
 	}
 
